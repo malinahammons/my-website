@@ -1,0 +1,25 @@
+.block {
+    height: 75px;
+    width: 75px;
+    display: inline-block;
+    border-radius: 50px
+    
+  }
+  .red {background-color: red; 
+  }
+  .orange{background-color:orange;
+  }
+  .yellow{background-color:yellow;
+  }
+  .green {background-color:green;
+  }
+  .blue {background-color:blue;
+  }
+  .indigo {background-color:violet;
+  }
+  .pink {background-color:pink;
+  }
+  .purple {background-color:purple;
+  }
+  .aqua {background-color:royalblue;
+  }
